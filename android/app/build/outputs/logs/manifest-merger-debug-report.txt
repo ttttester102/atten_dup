@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/aa27c931e80200c40daff2e37cb35c49/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f5627f76b1fbce1c97531b05c5f4b63c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/0ab58ded8895af82960208548fdf1047/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3b08f0d65b47429e2910643220d3be5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/2c6ea110062cae2359f331fbd815c512/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/090f3fe4189221237304273f3ab67c7d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/e786570ecdc08dc7b9564d6f7c917898/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e444f6a5e4faa7701d5aa63e77f9fdde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0b39333dfc6f0302da591182476daeeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/97f3e54700702f697d6402fdbc72f0f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65e37e3cf5802352381df30f271f6b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/14512e9ee730f30eeee1ce9469a64f93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f877b9787a9da127b30d024dc371f207/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae3d8301e0a962e0cdb55b16840893b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1d0d0ada074e76830e9ba31684ea8914/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/263b8b42761dd854b1451b6b88c8f0e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7a01362839351c35374c580fecf01bab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63e77c7d099d301db5695774f89c63a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5c2379181ec457d5055b35b879b68b63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5de71f1ccba8394a4c3240fd2ec8c7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6edfae39eafc68501d985c8f6817d00c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/159dbf3acbf6050700627be7a6073d79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eab7d17ebb7a557d311e795ee7269cb8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c6e7953e537a4488725f00f8ccc2c1df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/08b6661b777dd4fa2fe233461918273d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3c97551d83abfa45905ef8528190be9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cea539b4b41e7348ec75c34a135d8158/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/11fe2a52b62e8b600f0acfd665e8cbf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4e9c1468515de1fc2b92e6e5e75d400a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5973fa522750453b536483ed7fe53aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9877ebcdde703fceafc8e2337b5249b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fd9d830ec48ddcc63011b29cf0917b19/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/145bb476e8faef20b03926f10642a8dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/122efc995cea307f08f0ff0bdcfadb2a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/128066f9ed544f3dbc6a0461b9525b9c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0dcc9b95c44682b586cf22e60bb70816/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bccf777dcec46316126351e469c04f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d63238aee0d3cbde8b81d79ee9f5f19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f33a07c0dafd1e9104aa663683a9fdac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f47997df3e2a15769be0b8d6b0d69e6f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d8f91c24b1d630db08978aebbce4699f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75e5abbbd3a03460c01edd37d9f74e9a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:5:5-65
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/0ab58ded8895af82960208548fdf1047/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/0ab58ded8895af82960208548fdf1047/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3b08f0d65b47429e2910643220d3be5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3b08f0d65b47429e2910643220d3be5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/090f3fe4189221237304273f3ab67c7d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/090f3fe4189221237304273f3ab67c7d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/e786570ecdc08dc7b9564d6f7c917898/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/e786570ecdc08dc7b9564d6f7c917898/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eab7d17ebb7a557d311e795ee7269cb8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eab7d17ebb7a557d311e795ee7269cb8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d8f91c24b1d630db08978aebbce4699f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d8f91c24b1d630db08978aebbce4699f/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.attendize.MainActivity
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/aa27c931e80200c40daff2e37cb35c49/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/aa27c931e80200c40daff2e37cb35c49/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f5627f76b1fbce1c97531b05c5f4b63c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f5627f76b1fbce1c97531b05c5f4b63c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/0ab58ded8895af82960208548fdf1047/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/0ab58ded8895af82960208548fdf1047/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3b08f0d65b47429e2910643220d3be5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3b08f0d65b47429e2910643220d3be5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/2c6ea110062cae2359f331fbd815c512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/2c6ea110062cae2359f331fbd815c512/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/090f3fe4189221237304273f3ab67c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/090f3fe4189221237304273f3ab67c7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/e786570ecdc08dc7b9564d6f7c917898/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/e786570ecdc08dc7b9564d6f7c917898/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e444f6a5e4faa7701d5aa63e77f9fdde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e444f6a5e4faa7701d5aa63e77f9fdde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0b39333dfc6f0302da591182476daeeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0b39333dfc6f0302da591182476daeeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/97f3e54700702f697d6402fdbc72f0f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/97f3e54700702f697d6402fdbc72f0f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65e37e3cf5802352381df30f271f6b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/65e37e3cf5802352381df30f271f6b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/14512e9ee730f30eeee1ce9469a64f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/14512e9ee730f30eeee1ce9469a64f93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f877b9787a9da127b30d024dc371f207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f877b9787a9da127b30d024dc371f207/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae3d8301e0a962e0cdb55b16840893b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae3d8301e0a962e0cdb55b16840893b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1d0d0ada074e76830e9ba31684ea8914/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1d0d0ada074e76830e9ba31684ea8914/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/263b8b42761dd854b1451b6b88c8f0e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/263b8b42761dd854b1451b6b88c8f0e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7a01362839351c35374c580fecf01bab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7a01362839351c35374c580fecf01bab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63e77c7d099d301db5695774f89c63a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63e77c7d099d301db5695774f89c63a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5c2379181ec457d5055b35b879b68b63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5c2379181ec457d5055b35b879b68b63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5de71f1ccba8394a4c3240fd2ec8c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5de71f1ccba8394a4c3240fd2ec8c7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6edfae39eafc68501d985c8f6817d00c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6edfae39eafc68501d985c8f6817d00c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/159dbf3acbf6050700627be7a6073d79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/159dbf3acbf6050700627be7a6073d79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eab7d17ebb7a557d311e795ee7269cb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/eab7d17ebb7a557d311e795ee7269cb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c6e7953e537a4488725f00f8ccc2c1df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c6e7953e537a4488725f00f8ccc2c1df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/08b6661b777dd4fa2fe233461918273d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/08b6661b777dd4fa2fe233461918273d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3c97551d83abfa45905ef8528190be9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3c97551d83abfa45905ef8528190be9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cea539b4b41e7348ec75c34a135d8158/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cea539b4b41e7348ec75c34a135d8158/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/11fe2a52b62e8b600f0acfd665e8cbf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/11fe2a52b62e8b600f0acfd665e8cbf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4e9c1468515de1fc2b92e6e5e75d400a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4e9c1468515de1fc2b92e6e5e75d400a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5973fa522750453b536483ed7fe53aa0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5973fa522750453b536483ed7fe53aa0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9877ebcdde703fceafc8e2337b5249b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9877ebcdde703fceafc8e2337b5249b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fd9d830ec48ddcc63011b29cf0917b19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fd9d830ec48ddcc63011b29cf0917b19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/145bb476e8faef20b03926f10642a8dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/145bb476e8faef20b03926f10642a8dd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/122efc995cea307f08f0ff0bdcfadb2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/122efc995cea307f08f0ff0bdcfadb2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/128066f9ed544f3dbc6a0461b9525b9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/128066f9ed544f3dbc6a0461b9525b9c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0dcc9b95c44682b586cf22e60bb70816/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0dcc9b95c44682b586cf22e60bb70816/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bccf777dcec46316126351e469c04f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bccf777dcec46316126351e469c04f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d63238aee0d3cbde8b81d79ee9f5f19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d63238aee0d3cbde8b81d79ee9f5f19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f33a07c0dafd1e9104aa663683a9fdac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f33a07c0dafd1e9104aa663683a9fdac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f47997df3e2a15769be0b8d6b0d69e6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f47997df3e2a15769be0b8d6b0d69e6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d8f91c24b1d630db08978aebbce4699f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d8f91c24b1d630db08978aebbce4699f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75e5abbbd3a03460c01edd37d9f74e9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75e5abbbd3a03460c01edd37d9f74e9a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3b3f926aab9cdab5eaf7a13d957bb50c/AndroidManifest.xml:24:13-58
