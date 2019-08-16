@@ -1,4 +1,4 @@
-#Thu Aug 15 06:05:28 IST 2019
+#Fri Aug 16 14:12:31 IST 2019
 base.0=/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

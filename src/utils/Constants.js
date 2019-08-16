@@ -1,0 +1,1 @@
+export const V_CARD_DATA = "v_card_data";
