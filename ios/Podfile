@@ -27,9 +27,13 @@ target 'attendize' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  pod 'react-native-camera', :path => '../node_modules/react-native-camera'
+  pod 'react-native-camera', :path => '../node_modules/react-native-camera', subspecs: [
+  'BarcodeDetectorMLKit'
+  ]
 
   pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
+  
+  pod 'Firebase/Core'
 
   target 'attendizeTests' do
     inherit! :search_paths

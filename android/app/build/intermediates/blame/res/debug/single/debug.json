@@ -36,12 +36,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -60,12 +60,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -96,12 +96,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
@@ -160,24 +160,24 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -200,12 +200,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -232,16 +232,16 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
@@ -288,12 +288,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -364,6 +364,10 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/anim/abc_slide_out_bottom.xml"
     },
@@ -396,12 +400,12 @@
         "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -448,16 +452,16 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -532,12 +536,12 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -584,12 +588,16 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/5596735457708ba0666c7540cc1c9eed/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_attendize.png.flat",
         "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/drawable/attendize.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -964,6 +972,10 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/color-v21/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -1056,12 +1068,20 @@
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/color/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/9e521b4c15caac3d0aa1f3c67ffaacfe/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1692,6 +1712,10 @@
         "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -1794,6 +1818,10 @@
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/apple/.gradle/caches/transforms-2/files-2.1/317855f8809485a18a80ec354fdd5897/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",

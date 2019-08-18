@@ -5,8 +5,8 @@ INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attend
 INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-31:12
 INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-31:12
 MERGED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml:1:1-31:12
-MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
 MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/aa27c931e80200c40daff2e37cb35c49/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76b999c39e341762a906b26437c8897e/AndroidManifest.xml:2:1-9:12
@@ -181,10 +181,10 @@ uses-sdk
 INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_async-storage] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/apple/Documents/visualStudioCode/reactNativeProjects/attendizeProj/attendize/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/13df0cea52e3bd55ac77734ebf680dac/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/aa27c931e80200c40daff2e37cb35c49/AndroidManifest.xml:7:5-9:41

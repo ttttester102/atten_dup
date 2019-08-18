@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "64CDB8E4C74A0B3FB81C87B156B7C764"
+               BlueprintIdentifier = "0EF51B2EEB93F772E8C33C95ADBCBA09"
                BlueprintName = "React-jsi"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libReact-jsi.a">

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8D3A74631F3698CD806D3BC320937016"
+               BlueprintIdentifier = "B5237C2EA0948B2DE964861CF0E8DDCC"
                BlueprintName = "Pods-attendize"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libPods-attendize.a">

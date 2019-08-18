@@ -1,8 +1,7 @@
 import React, { PureComponent } from 'react';
-import { Alert, Vibration, Text, TouchableOpacity, NativeModules, Platform, View } from 'react-native';
+import { Alert, Share, Vibration, Text, TouchableOpacity, NativeModules, Platform, View, PermissionsAndroid } from 'react-native';
 import { RNCamera } from 'react-native-camera';
 import AsyncStorage from '@react-native-community/async-storage';
-import { Share, Button } from 'react-native';
 import vCard from 'vcf';
 import Colors from '../utils/Colors'
 import { Header } from '../component';
@@ -14,7 +13,6 @@ export default class Scanner extends PureComponent {
         super(props);
 
         this.state = {
-            isShareEnable: false,
             isFlashOn: false
         }
         this.isBarcodeScan = true;
@@ -36,12 +34,13 @@ export default class Scanner extends PureComponent {
 
         //Close android splash screen
         this.closeSplashScreen();
+        // this.checkCameraPermssisons();
     }
 
     toggleFlash = () => {
         this._setState(prevState => {
             return ({
-                isFlashOn: prevState.isFlashOn ? false : true 
+                isFlashOn: prevState.isFlashOn ? false : true
             })
         });
     }
@@ -55,15 +54,27 @@ export default class Scanner extends PureComponent {
     onShare = async () => {
         try {
             const data = await this.getCode();
+            const org_v_cards = data ? JSON.parse(data) : [];
+
+            if (!org_v_cards || (org_v_cards && !org_v_cards.length)) {
+                Alert.alert("No Data", "No VCard available, Please try again.", [
+                    {
+                        text: "Okay"
+                    }
+                ], {
+                        cancelable: false
+                    });
+                return;
+            }
+
             const result = await Share.share({
-                message: data
+                message: Array.from(org_v_cards).reverse().map((ele, index) => `\n${index + 1}.) ${ele.data}${index === org_v_cards.length - 1 ? '\n\n' : ''}`).toString()
             });
 
             if (result.action === Share.sharedAction) {
                 //Reset all configs
                 this.isBarcodeScan = true;
-                await this.clearData();
-                this._setState({ isShareEnable: false });
+                // await this.clearData();
             } else if (result.action === Share.dismissedAction) {
                 this.isBarcodeScan = true;
             }
@@ -78,7 +89,9 @@ export default class Scanner extends PureComponent {
         if (this.isBarcodeScan === false) return;
 
         this.isBarcodeScan = false;
-        const data = barcodes[0].rawData;
+        const data = barcodes[0] && barcodes[0].rawData ? barcodes[0].rawData : barcodes[0].dataRaw;
+
+        console.log('data ===> ', data);
         this.getVCardData(data);
         Vibration.vibrate(500);
     }
@@ -92,7 +105,6 @@ export default class Scanner extends PureComponent {
 
             var card_value = `${n_card_value}, ${fn_card_value}, ${email_card_value}`.split(',').map(ele => ele ? ele : null).filter(ele => ele).toString();
             await this.setQRCode(card_value);
-            this._setState({ isShareEnable: true });
 
             Alert.alert("Success", "Would you like to share the code.", [
                 {
@@ -117,7 +129,25 @@ export default class Scanner extends PureComponent {
     }
 
     setQRCode = async (data) => {
-        await AsyncStorage.setItem(V_CARD_DATA, data);
+        if (!data) return;
+
+        const org_v_cards = await this.getCode();
+        let v_cards = org_v_cards ? JSON.parse(org_v_cards) : [];
+
+        const index = v_cards.findIndex(ele => ele.data === data);
+
+        if (index > -1) {
+            console.log("index ===> ", index);
+            v_cards.splice(index, 1);
+            v_cards.push({
+                data
+            });
+        } else {
+            v_cards.push({
+                data
+            });
+        }
+        await AsyncStorage.setItem(V_CARD_DATA, JSON.stringify(v_cards));
     }
 
     clearData = async () => {
@@ -128,9 +158,34 @@ export default class Scanner extends PureComponent {
         return await AsyncStorage.getItem(V_CARD_DATA);
     }
 
+    checkCameraPermssisons = async () => {
+        try {
+            const cameraGranted = await PermissionsAndroid.check(PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION);
+            if (!cameraGranted) {
+                await this.requestPermissions(PermissionsAndroid.PERMISSIONS.CAMERA);
+            }
+
+            const audioGranted = await PermissionsAndroid.check(PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION);
+            if (!audioGranted) {
+                await this.requestPermissions(PermissionsAndroid.PERMISSIONS.RECORD_AUDIO);
+            }
+
+        } catch (error) {
+
+        }
+    }
+
+    requestPermissions = async (permission) => {
+        if (Platform.OS === 'android') {
+            const result = await PermissionsAndroid.request(permission)
+            return result === PermissionsAndroid.RESULTS.GRANTED || result === true
+        }
+        return true;
+    }
+
     render() {
-        const { container, preview, btnContainer, capture, btnText } = this.getStyles();
-        const { isShareEnable, isFlashOn } = this.state;
+        const { container, preview } = this.getStyles();
+        const { isFlashOn } = this.state;
 
         return (
             <View style={container}>
@@ -142,16 +197,16 @@ export default class Scanner extends PureComponent {
                     type={RNCamera.Constants.Type.back}
                     flashMode={isFlashOn ? RNCamera.Constants.FlashMode.torch : RNCamera.Constants.FlashMode.off}
                     onGoogleVisionBarcodesDetected={this.scanBarCode.bind(this)}
-                />
-                {
-                    isShareEnable ?
-                        <View style={btnContainer}>
-                            <TouchableOpacity style={capture} onPress={this.onShare.bind(this)}>
-                                <Text style={btnText}> SHARE </Text>
-                            </TouchableOpacity>
-                        </View>
-                        : null
-                }
+                >
+                    {({ camera, status, recordAudioPermissionStatus }) => {
+                        console.log("recordAudioPermissionStatus ===> ", status, recordAudioPermissionStatus);
+                        if (status === 'PENDING_AUTHORIZATION') {
+                            this.checkCameraPermssisons();
+                        }
+
+                        return;
+                    }}
+                </RNCamera>
             </View>
         );
     }

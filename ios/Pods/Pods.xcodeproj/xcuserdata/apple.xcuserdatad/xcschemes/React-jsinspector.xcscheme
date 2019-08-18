@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BEE2D0AF85AE69D072088E1B19769738"
+               BlueprintIdentifier = "B4D2A7B6E554F1D511D30A956852CADC"
                BlueprintName = "React-jsinspector"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libReact-jsinspector.a">
